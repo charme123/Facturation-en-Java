@@ -1,0 +1,1 @@
+crm.model.facturation.Produit
